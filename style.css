@@ -1,16 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 nav{
     background-color: black;
+    padding:15px 200px 15px 0px;
+    margin: 15px;
 }
 span{
-    margin: 0px 10px 0px 10px;
+    margin: 0px 10PX 0PX 10PX;
+    padding: 0px 20px 0px 20px;
     color: white;
-    font-weight: bold;
+    
    
+}
+#brand{
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .about{
     color: gray;
-    font-weight: bold
+    font-weight: bold;
     
-    ;
+}
+.Search{
+    padding-left: 350px;
+    
+}
+input{
+    padding: 5px;
+}
+button{
+    color: white;
+    background-color: black;
+    border-color: white;
+    padding: 5px 15px 5px  20px;
+}
+#nav2{
+    background-color: blue;
+}
+.about1{
+    color: white;
+    font-weight: lighter;
+}
+#btn{
+    background-color: blue;
+    border-color: white;
+}
+#nav3{
+    background-color: aliceblue;
+}
+.nm{
+    color: black;
+}
+#btn1{
+    background-color: aliceblue;
+    color: blue;
+    border-color: blue;
 }

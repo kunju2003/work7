@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    padding: 5px;
+    border: 2px solid black;
+}
+nav{
+    padding:15px 200px 15px 0px;
+    margin: 15px;
+    background-color: black;
+}
+    
+
+
+    span{
+        margin: 0px 10pX 0PX 10PX;
+        padding: 0px 20px 0px 20px;
+        color: white;
+        
+
+}
+#log{
+    font-weight: bold;
+}
+.l1{
+    padding-left: 250;
+    text-align: left;
+}
+#btn{
+
+    height:30px;
+    width: 90px;
+    border-radius: 35%;
+    background-color: lightseagreen;
+    color: white;
+
+}
+.l2{
+    padding-right: 250;
+    text-align: center;
+}
+#logo{
+    padding-left: 600px;
+    font-weight: bold;
+}
+#logo1{
+    padding-right: 250px;
+    font-weight: bold;
+}
+.l3{
+    padding-left: 250;
+    text-align: center;
+
+}
+
+
+
